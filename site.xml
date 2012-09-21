@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Rascal Meta Programming Language" url="http://www.rascal-mpl.org/updates">
+      Features related to the Rascal MetaProgramming language.
+   </description>
+   <feature url="features/rascal_feature_0.5.2.201209211516.jar" id="rascal_feature" version="0.5.2.201209211516">
+      <category name="Rascal"/>
+   </feature>
+   <category-def name="Rascal" label="Rascal"/>
+</site>
